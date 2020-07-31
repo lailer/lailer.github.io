@@ -4,7 +4,7 @@
 
 # Site
 title: 四月は君の嘘
-subtitle: ''
+subtitle: Yukee's blog
 description: '最後にどうかな'
 keywords: 
 author: Yukee
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://yamfeel.github.io
+url: https://www.yamfeel.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -99,8 +99,9 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: 'git'
-  repo: https://github.com/yamfeel/yamfeel.github.io.git
-  branch: master
+  repo: 
+    # github: https://github.com/yamfeel/yamfeel.github.io.git,master
+    coding: https://e.coding.net/yamfeel/yamfeel/yamfeel.git,master
 
 # Local search
 search:
@@ -108,3 +109,14 @@ search:
   field: post
   format: html
   limit: 10000
+
+# Security
+encrypt: # hexo-blog-encrypt
+  abstract: Here's something encrypted.
+  message: Hey, password is required here.
+  tags:
+  - {name: enAsDiary, password: yukee304}
+  - {name: enAsTips, password: yukee304}
+  template: <div id="hexo-blog-encrypt" data-wpm="{{hbeWrongPassMessage}}" data-whm="{{hbeWrongHashMessage}}"><div class="hbe-input-container"><input type="password" id="hbePass" placeholder="{{hbeMessage}}" /><label>{{hbeMessage}}</label><div class="bottom-line"></div></div><script id="hbeData" type="hbeData" data-hmacdigest="{{hbeHmacDigest}}">{{hbeEncryptedData}}</script></div>
+  wrong_pass_message: Oh, this is an invalid password. Check and try again, please.
+  wrong_hash_message: Oh, these decrypted content cannot be verified, but you can still have a look.
