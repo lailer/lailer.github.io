@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>四月は君の嘘</title>
+  
+  <subtitle>Yukee&#39;s blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.yamfeel.cn/"/>
+  <updated>2020-08-01T09:46:42.004Z</updated>
+  <id>https://blog.yamfeel.cn/</id>
+  
+  <author>
+    <name>Yukee</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>现象级《江南百景图》 - Evaluation</title>
+    <link href="https://blog.yamfeel.cn/2020/07/31/the-think-of-jnbjt/"/>
+    <id>https://blog.yamfeel.cn/2020/07/31/the-think-of-jnbjt/</id>
+    <published>2020-07-30T16:53:43.000Z</published>
+    <updated>2020-08-01T09:46:42.004Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="古风经营浪潮"><a href="#古风经营浪潮" class="headerlink" title="古风经营浪潮"></a>古风经营浪潮</h2><p>这个月在TapTap独家上线的一个经营类游戏，铺天盖地的话题映入眼帘。B站、微博、知乎、各大游戏社区，都是关于这款游戏的相关信息。我对TapTap平台的印象也挺好的，最后我也下载了这款游戏来体验。也不看它是在App Store出道即颠峰的排名，是的，就以这独特的画面就足够让我去下载了。什么？画风独特？那叫五彩斑斓的黑，可能是我太久没见过这样画面的游戏了吧。</p><img src="/images/the-think-of-jnbjt/15746726163950146.jpg" alt="img" style="zoom: 33%;" /><p>看图不过是一款经营类古风游戏，包体积不大，下载也不费劲，那就下载来玩玩呗。</p><center>    画风和立绘的探索</center><div style="display:flex;justify-content: center;">   <img src="/images/the-think-of-jnbjt/image-20200731023139251.png" style="width:370px"/><img src="/images/the-think-of-jnbjt/image-20200731030218071.png" style="width:385px" /> </div>椰岛CEO Wesley 对艺术的不确定性的意志，给了美术无尽的遐想。在团队们地不断尝试，不断吸取传承的艺术积淀。<p>在预研的第三个月确定了建筑风格和角色立绘。画风诚意感受到了，那么有画风就成功了吗？不对，虽然Wesley给了美术足够多地创意自由认可，但还要看体验如何。</p><h2 id="游戏背景"><a href="#游戏背景" class="headerlink" title="游戏背景"></a>游戏背景</h2><img src="/images/the-think-of-jnbjt/image-20200731042247908.png" alt="image-20200731042247908" style="zoom: 67%;" /><p>先来给大家介绍下游戏背景，讲的是一个神话故事，古有法宝名为山河社稷图，被一居士机缘巧合觅得，在其中绘江南百景。历年后天降大火，此图也卷入其中。而图中灵魂苏醒，既是开始游戏中的界面。以图中世界苏醒的文徵明一角色开始经营焚烧后的江南百景图。</p><p>无论故事如何，一开始画面真的是惊艳到我了。有种让国人自豪的感觉，壮哉我大中华。情怀？不错，可以做游戏情怀，但这款游戏做到了人文情怀。游戏情怀针对的是某些游戏老玩家，但人文情怀不同，它是大众广为接受的，体量的级别就不一样。</p><p>再下来分析，先实际video体验一下吧（补：video game designer 译为 电子游戏设计师）</p><h2 id="《江南百景图》体验"><a href="#《江南百景图》体验" class="headerlink" title="《江南百景图》体验"></a>《江南百景图》体验</h2><video controls="true" preload="meta" style="width:100%">    <source src="/images/the-think-of-jnbjt/jnbjt.mp4" type="video/mp4"></video><center>录屏画面有些许卡顿现象</center><p>从画面实际体验中，操作过程画面切换行云流水般的圆滑。从设计一张画轴里完美呈现出江南百景图的主题，不仅切题还突出。UI/UE的贡献不可忽视，游戏界面与主体本身融合度非常的高，且加载拖动动效都特别平滑。按钮控件主题样式选的也很好，红色印章式，不仅传统还凸显按钮控件，但不突兀。做的非常的好，总体体验没有感受到生硬。整体代入感分数就明显了，造就了这款游戏前期现象级的表现，在机制玩法上没有太大的创新。至于后期表现如何还是蛮期待的。</p><script>    let out = setInterval(() => {        let el = document.getElementById('sidebar')        if(el.style.display == 'block') clearInterval(out)        if(el.style.display == 'block') document.getElementsByClassName('sidebar-toggle')[0].click()    },1000)</script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;古风经营浪潮&quot;&gt;&lt;a href=&quot;#古风经营浪潮&quot; class=&quot;headerlink&quot; title=&quot;古风经营浪潮&quot;&gt;&lt;/a&gt;古风经营浪潮&lt;/h2&gt;&lt;p&gt;这个月在TapTap独家上线的一个经营类游戏，铺天盖地的话题映入眼帘。B站、微博、知乎、各大游戏社区，都是关
+      
+    
+    </summary>
+    
+    
+      <category term="游戏策划" scheme="https://blog.yamfeel.cn/categories/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92/"/>
+    
+    
+      <category term="游戏策划" scheme="https://blog.yamfeel.cn/tags/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>What&#39;s a game designer?</title>
+    <link href="https://blog.yamfeel.cn/2020/07/30/what-game-designer/"/>
+    <id>https://blog.yamfeel.cn/2020/07/30/what-game-designer/</id>
+    <published>2020-07-29T21:16:09.000Z</published>
+    <updated>2020-07-30T16:48:15.500Z</updated>
+    
+    <content type="html"><![CDATA[<p>Game designer 为什么叫游戏策划，其实我也并不喜欢这个称呼，但绝大多数的Game Designer没能达到设计这水准。<br>不过最早游戏策划一职称是由日本引进台湾，再到国内后就流行了起来。</p><p>那么game designer的工作内容是什么呢？</p><h2 id="职能划分"><a href="#职能划分" class="headerlink" title="职能划分"></a>职能划分</h2><p>国内常见：主策划、系统策划、数值策划、文案策划、关卡策划、战斗策划。</p><table><thead><tr><th>职能</th><th>工作内容</th></tr></thead><tbody><tr><td>主策划</td><td>设计游戏整体概念还有日常的管理和协调。同时负责指导组內成员的日常工作。</td></tr><tr><td>系统策划</td><td>负责游戏的一些系统规则的编写，系统策划和程序的交流比较紧密。如组队、战斗、排行好友等，需要提供原型和流程图。</td></tr><tr><td>数值策划</td><td>负责游戏平衡的规则，确定游戏里所有的数字。前期建立数值模型，后期配置表。</td></tr><tr><td></td><td></td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Game designer 为什么叫游戏策划，其实我也并不喜欢这个称呼，但绝大多数的Game Designer没能达到设计这水准。&lt;br&gt;不过最早游戏策划一职称是由日本引进台湾，再到国内后就流行了起来。&lt;/p&gt;
+&lt;p&gt;那么game designer的工作内容是什么呢？&lt;/p
+      
+    
+    </summary>
+    
+    
+      <category term="游戏策划" scheme="https://blog.yamfeel.cn/categories/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92/"/>
+    
+    
+      <category term="游戏策划" scheme="https://blog.yamfeel.cn/tags/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>竞品分析（通用）</title>
+    <link href="https://blog.yamfeel.cn/2020/07/29/game/Competitive-Analysis-1/"/>
+    <id>https://blog.yamfeel.cn/2020/07/29/game/Competitive-Analysis-1/</id>
+    <published>2020-07-29T06:43:55.000Z</published>
+    <updated>2020-07-30T16:48:40.628Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><p><strong>为什么要去做竞品分析？</strong></p><p>竞品分析能让你更了解这个行业，了解对手。<br>确定一个产品下来后，应该去看看国内外同类型产品是怎么做的。</p></li><li><p><strong>如何去分析呢？</strong></p><p>实际上就是探究每个产品设计背后的原因。为什么都要怎么做，有哪些坑需要积累。新人阶段要培养产品思维，练习分析能力。</p></li><li><p><strong>找到竞品</strong></p></li></ul><p>从各种渠道市场中寻找竞品，准备Excel把对应竞品罗列出来。</p><ul><li><strong>收集基础数据</strong></li></ul><p>继续在罗列的竞品中，再寻找所有的相关信息和数据记录下来。<br>如：竞品名称、版本号、最后更新时间、下载量、融资情况、发布时间、产品定位、核心功能、日活月活、优缺点。<br>将所有收集的信息汇总成一份大表。</p><ul><li><strong>竞品分析报告</strong></li></ul><p>一般包括（市场竞争环境、基础数据分析、竞品分类分析、核心竞品选择、核心竞品分析）</p><ol><li><p>市场竞争环境：市场现状、市场规模、用户规模、发展趋势。<br> 多参考总结行业调研报告结合数据去说明你的报告，如何去表达呢？最好用一些分析模型会比自己陈述更加有条理一些。<br> 如：PEST（政治、经济、社会、科技）</p></li><li><p>基础数据分析：同类产品、排名情况、共性规律。<br> 这些就是分析你收集汇总的数据，做一个简单的概述和总结。</p></li><li><p>竞品分类分析<br> 将收集的竞品进行分类，根据不同指标进行分类的结果也不一样。<br> 比如：产品模式、盈利方式、目标人群等…</p></li><li><p>核心竞品选择<br> 从所有中的竞品中进行二次筛选出3~5核心竞品，作为接下来的重点分析对象，并且说明一下选择这些核心竞品的原因。<br> 如何去筛选？可以选择下载量大，使用人数多的产品作为核心竞品。</p></li><li><p>核心竞品分析<br> 以不同角度去分析核心竞品，比如：产品定位、目标人群、解决什么需求、Slogan、发展历程、用户的属性（性别、地域、年龄）、盈利模式、产品模式、核心功能。<br> 以核心功能为角度，你可以分析产品功能结构及主要功能流程，可以用脑图及流程图去展现。功能流程也就做了流程体验和产品体验。还可以做做竞品交叉对比、优缺点对比。<br> 多看多吸取别人的报告，作为新人多多参考多多练习。</p></li></ol><table><thead><tr><th align="center">平台</th><th align="center">用途</th></tr></thead><tbody><tr><td align="center">七麦数据</td><td align="center">app下载榜单、搜索指数、微信公众号榜单，更新速度实时。</td></tr><tr><td align="center">AppGrowing</td><td align="center">提供广告追踪、榜单数据、ASO优化等服务</td></tr><tr><td align="center">艾瑞数据</td><td align="center">不仅仅有移动app相关指数还有pc web指数、网络广告指数、海外app指数、移动app指数、微信小程序指数，但不是实时。</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;为什么要去做竞品分析？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;竞品分析能让你更了解这个行业，了解对手。&lt;br&gt;确定一个产品下来后，应该去看看国内外同类型产品是怎么做的。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;如何去分析呢？&lt;/stro
+      
+    
+    </summary>
+    
+    
+      <category term="游戏策划" scheme="https://blog.yamfeel.cn/categories/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92/"/>
+    
+    
+      <category term="游戏策划" scheme="https://blog.yamfeel.cn/tags/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>早期电子游戏的发展历史(简)</title>
+    <link href="https://blog.yamfeel.cn/2020/07/27/game-history/"/>
+    <id>https://blog.yamfeel.cn/2020/07/27/game-history/</id>
+    <published>2020-07-26T16:31:48.000Z</published>
+    <updated>2020-07-29T14:07:45.471Z</updated>
+    
+    <content type="html"><![CDATA[<p>游戏是什么？在合理的规则下的一个交互行为称之为游戏。在从中所带来的所有体验，决定了游戏的寿命。</p><h2 id="早期游戏"><a href="#早期游戏" class="headerlink" title="早期游戏"></a>早期游戏</h2><h3 id="《双人网球Tennis-for-two》-1958"><a href="#《双人网球Tennis-for-two》-1958" class="headerlink" title="《双人网球Tennis for two》 - 1958"></a>《双人网球Tennis for two》 - 1958</h3><p>世界上第一款鲜为人知得电子游戏，于1958年威廉·辛吉勃森(WilliamHiginbotham）利用示波器与类比电脑创造出的游戏《双人网球》，威廉·辛吉勃森后被称为“世界电子游戏之父”。这号人物有非常多的故事，我们下次讲这个人的故事。</p><div style="display:flex;justify-content: center;">    <img src="/images/game-history/image-20200727013903255.png" alt="image-20200727013903255" />    <img src="/images/game-history/image-20200727013924117.png" alt="image-20200727013924117" /></div><p>《双人网球》这款游戏控制相当简单，一个方向的旋钮，和一个击球按钮构成了这一整个游戏的交互。</p><h3 id="《太空大战Spacewars》-1962"><a href="#《太空大战Spacewars》-1962" class="headerlink" title="《太空大战Spacewars》 - 1962"></a>《太空大战Spacewars》 - 1962</h3><p>1962年，《Spacewars》，麻省理工学院的学生Steve Russell和他的几位同学开发出了世界上第一款视频游戏，名叫《Spacewars》。尽管之前《Noughts＆Crosses》已经有了电子游戏的雏形，《Spacewars》才算是严格意义上具备现今游戏基本特征史上第一款电子游戏。</p><p><img src="/images/game-history/image-20200727014827952.png" alt="image-20200727014827952"></p><blockquote><p>前两款游戏在当时，是不具备商业化能力的，当时计算机设备是非常昂贵的资源。对游戏来说，没有了盈利性，就没有了发展。但不久后有位年轻人由Spacewars启发，预见其商业性，并开始了创业之旅。</p></blockquote><h3 id="《Pong》-1972"><a href="#《Pong》-1972" class="headerlink" title="《Pong》 - 1972"></a>《Pong》 - 1972</h3><p>1972年，Nolan Bushnell和Ted Dabney成立了雅达利，聘用Allan Alcorn开发Magnavox Odyssey版的乒乓球游戏。该游戏即为Pong，发售于1972年，1973年3月开始大量投放市场。</p><blockquote><p>第一世代：Magnavox Odyssey</p></blockquote><p><img src="/images/game-history/image-20200727021403487.png" alt="image-20200727021403487"></p><blockquote><p>《Pong》是世界上第一款街机游戏，同是世界上第一款带音效的游戏。</p></blockquote><p>诺兰·布什内尔Nolan Bushnell花了500美元注册了自己的公司雅达利Atari。</p><p><img src="/images/game-history/image-20200727141311691.png" alt="image-20200727141311691"></p><p>在这一年里尼克松访华，中日邦交正常化，中国《纪录片》。在这样一个背景下，给Atari的《Pong》以乒乓球背景的游戏收到了巨大的关注，当时第一款运行《Pong》的游戏被放在加州的一家酒吧。傍晚酒吧老板给Nolan打了电话称这台游戏机出问题了，让Nolan赶紧来。Nolan并不想去，大傍晚的谁又想动身起床呢，回拒酒吧老板后。酒吧老板说：“不行，快点过来。现在聚集着很多人等着玩呢。”Nolan去到酒吧后发现并不是机器出错，而是投币太多把机器塞满了。Nolan意识到有如此丰厚的利润空间，此后Nolan坚定了做游戏的决心。</p><h2 id="游戏界的市场风暴来袭"><a href="#游戏界的市场风暴来袭" class="headerlink" title="游戏界的市场风暴来袭"></a>游戏界的市场风暴来袭</h2><h3 id="雅达利大崩溃"><a href="#雅达利大崩溃" class="headerlink" title="雅达利大崩溃"></a>雅达利大崩溃</h3><p>1976年Nolan将雅达利以2800万美金卖给了华纳，成为华纳游戏事业部。乔布斯早在74年加入雅达利工作并与沃兹的帮助下开发了经典的打砖块游戏。乔布斯曾向诺兰想要一笔投资却遭到拒绝，但乔布斯在和沃兹期间发现了计算机的潜力，高瞻远瞩的乔布斯离开雅达利后，与沃兹共创了伟大的苹果公司。</p><blockquote><p>第二世代：Atari 2600、SG-1000（世嘉新星崭露头角）</p></blockquote><p>1979年因华纳看不惯诺兰·布什内尔，给了丰厚的补偿金让其签署七年竞业禁止协议。<br>几年里雅达利近乎统治整个游戏市场让华纳得以骄傲，但市场却发生了变化。游戏开发商就只为了在行业内捞一笔钱，没有新作品诞生，全部都是抄袭老作品，游戏开发人员也得不到尊重，此后市场一蹶不振。<br>游戏业得停滞不前，使得华纳做得一个错误得决定将雅达利王朝推向悬崖。其因1982圣诞节前夕，巨额买下《E.T外星人》电影游戏改编权，并下令6周内，这款游戏是史上最巨头造出史上最烂的IP大作，雅达利王朝宣告结束。</p><p><img src="/images/game-history/image-20200727174219224.png" alt="image-20200727174219224"></p><blockquote><p>华纳游戏事业部开发人员不被尊重也是如此，后来四位核心游戏开发人员策划了一场革命，大卫·克雷恩，拉力·拉普兰，阿兰·米勒，鲍勃·怀特海德联合音乐人吉姆·莱维创办了动视，也就是现今的暴雪。</p></blockquote><h3 id="群雄崛起"><a href="#群雄崛起" class="headerlink" title="群雄崛起"></a>群雄崛起</h3><h4 id="任天堂Nintendo"><a href="#任天堂Nintendo" class="headerlink" title="任天堂Nintendo"></a>任天堂Nintendo</h4><p>起源1889年，山内房治郎创办销售传统游戏花札公司，任天堂就来自花札中的谚语（成事在天）。1969年，在后人山内溥带领下成立游戏部门。当时游戏部门只是做游戏玩具，其成立部门起因是鬼才横井军平摆弄的一款超级怪手。</p><p><img src="/images/game-history/image-20200727235259546.png" alt="image-20200727235259546"></p><p>横井军平在乘坐电车时看到有人电子计算器打发时间，就想出来掌上游戏机的设想。于是史上第一台掌上游戏机诞生 <strong>Game &amp; Watch</strong>。Game&amp;Watch销量6000万套奠定了任天堂事业的基础，随后来游戏匠人宫本茂发表Donkey Kong，一个从猩猩拯救美女的游戏，再一次获得巨大的成功。<br>当然，说到世界闻名的还是1983任天堂FC家用游戏机问世及宫本茂1985年开始的马里奥系列游戏作品，于2019年商业利润高达360亿美元。</p><p>宫本茂：“我觉得一款游戏需要给予人成就感。”</p><p>后续任天堂在游戏掌机相续研发出极具影响力的产品，如GameBoy，GBA，DS系列，Switch。</p><h4 id="世嘉SEGA"><a href="#世嘉SEGA" class="headerlink" title="世嘉SEGA"></a>世嘉SEGA</h4><p>世嘉源是外设娱乐设施业，什么投币老虎机</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;游戏是什么？在合理的规则下的一个交互行为称之为游戏。在从中所带来的所有体验，决定了游戏的寿命。&lt;/p&gt;
+&lt;h2 id=&quot;早期游戏&quot;&gt;&lt;a href=&quot;#早期游戏&quot; class=&quot;headerlink&quot; title=&quot;早期游戏&quot;&gt;&lt;/a&gt;早期游戏&lt;/h2&gt;&lt;h3 id=&quot;《双
+      
+    
+    </summary>
+    
+    
+      <category term="游戏策划" scheme="https://blog.yamfeel.cn/categories/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92/"/>
+    
+    
+      <category term="游戏策划" scheme="https://blog.yamfeel.cn/tags/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The dream album（一）</title>
+    <link href="https://blog.yamfeel.cn/2020/07/26/SuccessDiary/The-dream-album/"/>
+    <id>https://blog.yamfeel.cn/2020/07/26/SuccessDiary/The-dream-album/</id>
+    <published>2020-07-26T04:00:00.000Z</published>
+    <updated>2020-07-31T21:13:44.561Z</updated>
+    
+    <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=86 src="https://music.163.com/outchain/player?type=2&id=29583249&auto=0&height=66"></iframe><p><img src="/images/The-dream-album/image-20200726023046444.png" alt="image-20200726023046444"></p><p><img src="/images/The-dream-album/image-20200726023330592.png" alt="image-20200726023330592"></p><p><img src="/images/The-dream-album/image-20200726040212888.png" alt="image-20200726040212888"></p><p><img src="/images/The-dream-album/image-20200726042212150.png" alt="image-20200726042212150"></p><p><img src="/images/The-dream-album/image-20200726042443712.png" alt="image-20200726042443712"></p><p><img src="/images/The-dream-album/image-20200726040644751.png" alt="image-20200726040644751"></p><p><img src="/images/The-dream-album/image-20200726040820315.png" alt="image-20200726040820315"></p><p><img src="/images/The-dream-album/image-20200726171839973.png" alt="image-20200726171839973"></p><p><img src="/images/The-dream-album/image-20200726173401208.png" alt="image-20200726173401208"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=100% height=86 src=&quot;https://music.163.com/outchain/player?type=2&amp;
+      
+    
+    </summary>
+    
+    
+      <category term="Success Diary" scheme="https://blog.yamfeel.cn/categories/Success-Diary/"/>
+    
+    
+      <category term="Success Diary" scheme="https://blog.yamfeel.cn/tags/Success-Diary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SuccessDiary（一）</title>
+    <link href="https://blog.yamfeel.cn/2020/07/25/SuccessDiary/su-days-1/"/>
+    <id>https://blog.yamfeel.cn/2020/07/25/SuccessDiary/su-days-1/</id>
+    <published>2020-07-25T04:00:00.000Z</published>
+    <updated>2020-07-31T21:13:46.470Z</updated>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look."><div class="hbe-input-container"><input type="password" id="hbePass" placeholder="Hey, password is required here." /><label>Hey, password is required here.</label><div class="bottom-line"></div></div><script id="hbeData" type="hbeData" data-hmacdigest="3d4945d65daeb1a44c117dd46f5bb3739484b9294099412e7a8505dbc5611399">82c407a4e2da2768aa7452141743e1fdb32d9922328fb07d214cf4a60409412a69f5ecaadb0f0e9c66e492dddd6e8b5ea01fee5dc0ee975bd9fb3d9aa43f6689e76d77c831fae79b37a3fa65a6ede9673b560052ed81f318b155fddcedce628adb8a4ef65edd7ff17a48d42d606eef33f837377a045aaab429d0f930e77264e1f109f0c8c8816651c7e4b7bd2b148fe3ee54c19800335cdfdf8ae1e0a9ead1017cc2d7df296052beda24d2d7f9c1ea5a9c62787adcf5dd0fbb431a06446f8d71d4a0ea95858d0af54dc9298872da4f372de308df8e14f7616996f76f283a639d7469c69da2161053ce08e02ac7f643af0c3b4bb4185dc2e232712c9b4c0b688d8aa29e7745fe75517dd435eaf544dcf5cdec9ebe245c6d90a407dd91c67f676404bd0836e5bd3f84cb8b7f16e8b980e30d6a8952cf1dc8b6f8c07b69ff427b568909e7b1716995045dd990810210f9ac38cdd7d0c35c88fdd26a073b29f4cb3d7ea7cba7c473f615609a960b08e3f64874fe5077bf3f69e57626e516a048144c7ba8edb158a9950d3a648c56586572e95d5180f316d178e403b8cd4de34a92c1aeaf7541cbba1f491d8b61f8cf4b88228415b5c5fb589fc95bda195c932d0831120f7fdc2a391387a589a85fb14e724b92acb59809a7f62537b058545c9a1fe738b97b65a3d08837e2a40a284dd59bb6dbf4bf264ea169cb07c5a5ef67ba092614571eebe1d3ef900a8ba241d63b2c65a2495fbc3aabab853b0c6c14947a96ec415922d37f82400f8cd96eca3f5f8cb8c8cf8c4f1fb6b6047c10cd887fa06d767afb9624df7fefa3d2b0ddc2bcd6874feb62c60b811742dbfb3ff3ae89823b24f3c97798d82524800b2595179075458d5c2a6cce2ccb7f7c743df9b3859bb5097680f73aea6d67ef8dfa5b585a5f23079ceeaf138cd0c1ffdb9dd67559b1d2b9b8014519c4bc0434e64e3ad231e797061cc8d54cd716f1bdb75c78eec3764df4ad0c6702a827e81c68c049f83ff43ad85983a13cb3271e2be2339aded101c292069d77742009ed6e42e022b3cad149def117ff089fa70c8b60c8f5ee1816e8d7b7d13be4be7fb06d8e7a0d8d72827ff905944726e240839b67730a37fbd80159dce9ecf196b141b405c15ec1439603bb0c0b6919500536eeed906de2136dfc75e89c2fadca8a61ea530a784b28a43cf6e7bd3d4912ecb96ae59dbdcbfb5c78564de3e0d0168c42010e026b1fd54b7111db6c8bcc783bbd2267c346e2b3a25aac3de25194a084f6dde3cbdc8c264f0f3c114ac2258bc410daf9fef20a4e0546bf13e69cb698120ead9111e198177492aea44f68526bb397d15aa41794944bcad1f14174d38009efdc6080e8f8a269e39f7c68a0efbb087ef9878563c93bf68750493e4180815c090317cdc5cd36fcf843e9f89e32a26d48e433e40676a0521a162e3b6a9714a4d09ec81d751f9d5e6fcef217e9ec07bf6767dab25ed4afa68aef94ff0a729f67e03884c25da89e4fdf1a8cbdf5b42236e8764268719bd5cdfc1a2b16c8e23e90e398099746e58200a90dfac4c1da9ad249e7e0cf5d6323dd816e352b9946f30325acd5428e77674aaf493161a33e6cb6e746980804944cbc5a359bc854e954727b3a7c34ec5a036bc8b98289e48f102962128318c723102c7f0c6ba3edad31b99a3d480686147bc7e85118d5b684d776cd33877f7f76b5c15a3f8121c5ed0b57a0f515d7b5093c234caf7a33bdf24720bdcbe36124a80af3f2eb5324c53a9defe1d3fb53b36bd2813008594a23448201da28a1874862e3e5a08b0cd49b531aac4d6dbf1d55b9f0c1f80cec4861166bb038a9c99db67b8800e5fb</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      Here&#39;s something encrypted.
+    
+    </summary>
+    
+    
+      <category term="Success Diary" scheme="https://blog.yamfeel.cn/categories/Success-Diary/"/>
+    
+    
+      <category term="Success Diary" scheme="https://blog.yamfeel.cn/tags/Success-Diary/"/>
+    
+      <category term="enAsDiary" scheme="https://blog.yamfeel.cn/tags/enAsDiary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>好奇心</title>
+    <link href="https://blog.yamfeel.cn/2020/07/21/Learn/learn-2/"/>
+    <id>https://blog.yamfeel.cn/2020/07/21/Learn/learn-2/</id>
+    <published>2020-07-20T23:18:45.000Z</published>
+    <updated>2020-08-01T09:31:29.683Z</updated>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look."><div class="hbe-input-container"><input type="password" id="hbePass" placeholder="Hey, password is required here." /><label>Hey, password is required here.</label><div class="bottom-line"></div></div><script id="hbeData" type="hbeData" data-hmacdigest="3e0a537c87bbdbf1d3200635567b472b6c4dcfa0dffed6ca26cc24709bfeae2a">e41a02e51880924776229c0f4a1261ad8667dcb8a5a0e5875b5aa0aafba38910a7e91e94d99d624bd426f514a7e80b1acef2f9ed5088abc2fedb8d005883cc554f5220e0e9b908beaac0e64fec830bdc9156a8a3f8b5045c24cf8dd498f6110f3ce110b33b2cdc2dca6e6c7e8578000d9b72337ae6a0db75e5ca5922bdcb97dbee6f08914698802cba3fd836548a7fbfbeb87642198d00b1af8744de813c6cd826cd78d2900813b052118cd6b12c13cdd8d274a3d4d62c2f0a8e35ce334ce035</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      Here&#39;s something encrypted.
+    
+    </summary>
+    
+    
+      <category term="关于学习" scheme="https://blog.yamfeel.cn/categories/%E5%85%B3%E4%BA%8E%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="探索" scheme="https://blog.yamfeel.cn/categories/%E5%85%B3%E4%BA%8E%E5%AD%A6%E4%B9%A0/%E6%8E%A2%E7%B4%A2/"/>
+    
+    
+      <category term="方法论" scheme="https://blog.yamfeel.cn/tags/%E6%96%B9%E6%B3%95%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Art of Game Design - 001</title>
+    <link href="https://blog.yamfeel.cn/2020/07/20/game-designer-001/"/>
+    <id>https://blog.yamfeel.cn/2020/07/20/game-designer-001/</id>
+    <published>2020-07-19T16:36:56.000Z</published>
+    <updated>2020-07-19T17:06:23.701Z</updated>
+    
+    <content type="html"><![CDATA[<p>开头的重要性，请进入一个状态。</p><h2 id="魔法咒语？"><a href="#魔法咒语？" class="headerlink" title="魔法咒语？"></a>魔法咒语？</h2><p>别等，马上，现在，行动！</p><p>我是一名游戏设计师。</p><p>行动了吗？信心不足？那再来，我是一名游戏设计师。</p><p>这个建立信心的游戏可能在最初会显得很傻。但这远远比不上你当游戏设计师时犯下的最傻的事情。而做这件事能让你很好的建立信心，让你不再去质疑自己的能力。当你是一名初入门的设计师，你可能会觉得“我从来没做过这件事——我根本不知道自己在做什么。”当你有了一点经验以后，你可能会想“我的技能水平还很狭窄，而这个新的作品跟以前的事完全不同的。这次可能我没这么幸运了。”而到了你成为资深设计师时，你却在想“这个世界已经变得完全不同了。可能我会丧失自己的触觉了。“</p><p>你要把这些毫无用处的想法统统赶走，它们不能帮到你半分作用。当你必须要尝试一件事时，永远不能考虑可能和不可能。只要你看看最伟大的创新想法，他们都是史无前例的，你会发现这些想法都有一个共同点：他们完全不怕被人嘲笑。其中一些伟大的革新都来源于那些对种种所谓的”不可能“无声应对的人们。游戏设计是一个决策制定的过程，决策在制定时都必须充满信心。</p><p>那我有时候会失败，的确你会有时候失败的，你会一而再再而三地失败，你会失败了很多很多次以后才得到成功。但这些失败都是你通向成功的唯一道路。你会渐渐喜欢上你的失败，因为每一次失败都会让你更近一个真正非凡的游戏。在赌场老千这行里有个说法：”假如你一直在输钱，那你就是一直没有去学习。假如你一直没有去学习，那你就没有足够地努力尝试，那你就不是一个正真地游戏设计师。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;开头的重要性，请进入一个状态。&lt;/p&gt;
+&lt;h2 id=&quot;魔法咒语？&quot;&gt;&lt;a href=&quot;#魔法咒语？&quot; class=&quot;headerlink&quot; title=&quot;魔法咒语？&quot;&gt;&lt;/a&gt;魔法咒语？&lt;/h2&gt;&lt;p&gt;别等，马上，现在，行动！&lt;/p&gt;
+&lt;p&gt;我是一名游戏设计师。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="游戏策划" scheme="https://blog.yamfeel.cn/categories/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92/"/>
+    
+      <category term="游戏设计的艺术" scheme="https://blog.yamfeel.cn/categories/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E7%9A%84%E8%89%BA%E6%9C%AF/"/>
+    
+    
+      <category term="游戏策划" scheme="https://blog.yamfeel.cn/tags/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92/"/>
+    
+      <category term="游戏设计的艺术" scheme="https://blog.yamfeel.cn/tags/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E7%9A%84%E8%89%BA%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《游戏设计的100个原理》 - 第一篇|游戏创新的一般原理（一）</title>
+    <link href="https://blog.yamfeel.cn/2020/07/16/game/B-game-design-100-1/"/>
+    <id>https://blog.yamfeel.cn/2020/07/16/game/B-game-design-100-1/</id>
+    <published>2020-07-16T01:01:10.000Z</published>
+    <updated>2020-07-30T12:18:21.711Z</updated>
+    
+    <content type="html"><![CDATA[<center>New Riders游戏设计与开发</center><center>游戏设计的100个理由［美］Wendy Despsin　著 肖心怡　译</center><hr><center>此篇记录《游戏设计的100个原理》的归纳笔记，有原文对照性，便于独立思考和解析。<br/>此书作为一本概念性参考的理念书，请不要作为衡量标准的依据</center><h2 id="原理-1-游戏的对称性-非对称性和同步性"><a href="#原理-1-游戏的对称性-非对称性和同步性" class="headerlink" title="原理 1 游戏的对称性/非对称性和同步性"></a>原理 1 游戏的对称性/非对称性和同步性</h2><p>在对称性游戏（Symmetric gameplay）中，参与游戏的玩家的体验完全一样。国际象棋——一个实体棋盘游戏，就是一个例子（通过邮件下棋的玩法不在此列，因为总有一个人先知道自己要走哪一步，而他的对手直到看到邮件才能知道）。而经典游戏《乓》（Pong）则是电子游戏中一个典型的对称性游戏的例子。玩《乓》时两个玩家轮流发动自己的动作，两人看到的画面完全同步，都和对方完全一样。<br>很多游戏机上的多人游戏会让所有的玩家在同一时间看到相同的场景。在《马里奥赛车》（Mario Kart）中，一局游戏里所有的玩家会看到完全相同的小全景图，显示所有人的进展情况，而每一个玩家的主窗口会以他自己的赛车为画面中心，以便于他精确地操控自己的赛车。从这个角度看，这个游戏既是对称性游戏又是非对称性游戏，因为游戏中既有完全相同的全景图又有各个赛车所处环境的独有界面。<br>在非对称性游戏（Asymmetric gameplay）中，参与游戏的玩家的体验并不完全一样。《龙与地下城》（Dungeons and Dragons）就是一个典型的非对称性游戏。在这个游戏中，地下城主（Dungeon Master或Game Master，GM）的扮演者能知道所有正在发生的事情，而其他玩家则只知道一部分。此外在一些电子游戏中，一些玩家可以利用特殊技能看到其他玩家看不到的事物，比如陷阱。这些都属于有目的的不对称。<br>最后，游戏中的延迟也会导致玩家看到的画面有不同。这种意外产生的信息不对称可能会产生这样的后果，比如玩家误以为他打出了一枪，事实上，因为服务器还没能把信息传递给他，他可能已经被看不见的对手击中了。<br>这就让我们开始思考同步性（synchronicity）问题。同步的游戏是指在游戏过程中参与的双方同时发动自己的动作。这是多人网络游戏中常见的形式。玩家同时在线时通常会看到几乎相同的画面。多人游戏机游戏的特点正是如此，如《马里奥赛车》就拥有完美的同步性。<br>而最近流行的游戏《填字接龙》（Words with Friends）采用的则是非同步的游戏机制。在这样的游戏机制中，一位玩家先采取一步行动，网络将这一步行动传达至游戏的另一方，另一位玩家再采取相应的行动。即使两位玩家同时在线，这个过程也需要一定的时间。而如果另一位玩家暂时不在线，这个过程可能需要长达数天。</p><p><img src="/images/B-game-design-100-1/image-20200716120655443.png" alt="image-20200716120655443"></p><h3 id="理解"><a href="#理解" class="headerlink" title="理解"></a>理解</h3><ul><li>游戏的对称性：参与的所有玩家，游戏体验是一致。</li><li>游戏的非对称性：在非对称性的游戏中，往往玩家有自己的独立视角。但也含有对称性的玩家体验内容，如马里奥赛车。</li><li>游戏的同步性：双方是否同时采取行动。</li><li>游戏的非同步性：让玩家们轮流采取行动，如象棋。但网络延时会使得同步性游戏产生非同步性影响，从而导致公平性差异产生。</li></ul><h2 id="原理-2-A最大，鬼万能"><a href="#原理-2-A最大，鬼万能" class="headerlink" title="原理 2 A最大，鬼万能"></a>原理 2 A最大，鬼万能</h2><p>A最大，鬼万能代表的是一种游戏中的组织架构方式，在这种架构方式下，一系列游戏中的对象可以根据它们在游戏中的价值或等级重组。在扑克牌游戏中，A自法国大革命以来就被认为是最大的牌，甚至大过K、Q和J（这3张牌在社会象征性的层面有着更高的级别），以及其他的数字牌，尽管A代表的数字1是这些数字中最小的。西班牙扑克中也有和K、Q、J类似的王、骑士和武士，王比骑士大，而骑士比武士大。<br>无论如何，玩家在开始扑克牌游戏之前都要建立一套规则，确定最大的牌。这样他们可以在不改变游戏基本规则，甚至不需要玩家重新抓一手牌的前提下，改变特定结果的概率分布。叫主牌可以在任意时刻改变场上可用扑克牌的分布而无需重新洗牌。<br>任何一个玩家都能了解其中所有元素的游戏，特别是其中那些元素的价值能够排序的游戏，都可以包含一个快速的关于A大还是K大的决定。有一些游戏利用这个原理，在游戏进行时中途改变这个大小顺序，或是要求玩家根据自己或团队的目标来重新定一张最大的牌。这就给游戏引入了多样性和惊喜，避免了过多的重复。<br>除了重新打乱之前牌力大小的机制，鬼牌可以作为万能牌的设定，也进一步为游戏增加了复杂性。万能牌可以替代游戏中的任何其他牌。事实上，万能牌就是一个玩家可根据需要随意赋值的空变量。玩家通常使用那些能改变价值的牌来使自己更接近胜利，而鬼牌或者其他的万能牌则可能是这些牌中价值最高的。它们可能比A更有用，虽然A价值很高，但是改变某张牌的价值从而组成一个更强力的牌组则为游戏增添了更多复杂性。<br>有一些游戏把好几种元素（或者牌）当作万能牌，这就使得游戏元素的原始分布变得更加复杂。这些万能牌可以随意变换，增加了稀有事件的发生频率，因为它们使游戏元素的原始分布在概率上更加频繁。<br>比如，在扑克游戏中，Deuce这一万能牌可使得4张低价值的牌变成一组非常有价值的手牌；试想一下你可以把一张2用来和你的手牌组成皇家同花顺，又或者把起手的2和7（从统计学来看这是最差的开局了）改换成一对7。同样，把方块或者红牌规定为万能牌的话，就能在其他规则不变的情况下在统计学上为玩家提供更多可选项。</p><p><img src="/images/B-game-design-100-1/image-20200716143106556.png" alt="image-20200716143106556"></p><h3 id="理解-1"><a href="#理解-1" class="headerlink" title="理解"></a>理解</h3><ul><li>万能的鬼牌，代表着可能性，变化性，技巧性。可以从中让不同层次玩家体验到不一样游戏体验。也提高了游戏的复杂程度。</li></ul><h2 id="原理-3-巴特尔的玩家分类理论"><a href="#原理-3-巴特尔的玩家分类理论" class="headerlink" title="原理 3 巴特尔的玩家分类理论"></a>原理 3 巴特尔的玩家分类理论</h2><p>理查德·巴特尔（Richard Bartle）是多用户游戏领域的先锋，第一个多人参与的MUD（Multi-user Dungeon，多用户地牢）游戏的联合开发者。MUD游戏让多个用户可以在同一个虚拟的世界中一起探险，并且让用户能与其他玩家进行互动。巴特尔和他的合作者们在创造MUD的过程中细分了玩家的行为并以此启发设计师。他在1996年发表了一篇题为《牌上的花色——MUD中的玩家》（Hearts，Clubs，Diamonds，Spades：Players Who SuitMUDs）的论文，将MUD游戏中玩家的行为分成了4个基本类别。尽管在这之后有很多研究对完善玩家分类的拓扑图谱做出了贡献，巴特尔的分类始终以其简单和广泛性受到欢迎和认可。<br><strong>成就型玩家</strong>（Achievers）（方片）主要关注的是如何在游戏中取胜或达成某些特定的目标。这些目标可能包括游戏固有的成就或者玩家自己制定的目标，比如：“我要达到80级”，“我要在排行榜上名列前茅”，“我要挣到100万个金币”，或者“我要在3个小时之内只用这把刀把这个游戏打通关”……<br><strong>探险型玩家</strong>（Explorers）（黑桃）尝试在虚拟世界的系统中寻找一切他们所能找到的东西。游戏设计师通常属于这一类型。收集爱好者也是探险型玩家中的一类。口袋妖怪（Pokemon）就是一个对探险型玩家很有诱惑力的游戏——玩家不仅可以在地图上探险来探索虚拟世界的广度，而且细致及透明的战争机制对用户而言也很有趣且易学，让用户对探索游戏机制产生极大的兴趣。那些在游戏中试图搜集所有可能得到的物品的玩家都是典型的探险型玩家。<br><strong>社交型玩家</strong>（Socializers）（红桃）享受在游戏过程中与其他玩家的互动。除了人类一起游戏的社交本能，他们喜欢利用公会和团队的机制来进一步强化自己的社会存在感。<br><strong>杀手型玩家</strong>（Killers）（梅花）喜欢把他们自己的意愿强加给他人。杀手型玩家又可以分为两类：有一类杀手型玩家在游戏中杀人是为了显示他们的强大，而另一类玩家的目的是骚扰或激怒其他人，我们把这部分玩家称为“破坏者”（griefers）。<br>巴特尔用两条轴线分出的4个象限来分析这4种不同的玩家。X轴从左至右分别是玩家（Players）和世界（World），Y轴从下至上分别是“交互于”（Interacting With）和“作用于”（Acting On）。成就型玩家<br>倾向于作用于世界，探险型玩家倾向于交互于世界，社交型玩家倾向于交互于其他玩家，杀手型玩家倾向于作用于其他玩家。</p><p><img src="/images/B-game-design-100-1/image-20200716151948663.png" alt="图片出自尚在天国EX"></p><h3 id="理解-2"><a href="#理解-2" class="headerlink" title="理解"></a>理解</h3><ul><li>成就型玩家：作用于世界</li><li>探索型玩家：交互于世界</li><li>社交型玩家：交互于玩家</li><li>杀手型玩家：作用于玩家</li></ul><h2 id="原理-4-合作与对抗"><a href="#原理-4-合作与对抗" class="headerlink" title="原理 4 合作与对抗"></a>原理 4 合作与对抗</h2><p>当与超过一个玩家一起玩游戏时，有两种可能的玩家类型：合作型和对抗型。更多的情况下，游戏在本质上就是对抗性或竞争性的。<br>在合作型的游戏中（coop play），两个或多个玩家共享一个目标，并且通过共同努力去实现这个目标。桌上角色扮演类游戏（table top roleplaying games）就是很好的例子。这类游戏中，几个玩家被组合在一起去进行冒险，在这种情况下，玩家团队需要对抗的障碍通常是游戏设计中的虚拟世界，或是游戏主持者的想象。<br>在视频游戏中，合作游戏通常是两个或两个以上玩家与人工智能选手的对抗。玩家可以交易物品，相互治疗，使用互补的游戏战略（如主战坦克与远程武器的联手使用），或更为动态的方式（如相互给予身体上的增强互补）以通过单个玩家靠自身能力无法通过的障碍物。<br>《动物之森》（Animal Crossing）就是一个合作游戏。玩家把自己的游戏卡插到别人的主机上可以帮助他解锁新的内容。很多游戏有可解锁的结尾，需要玩家们一起合作去解决最后的挑战。主机游戏（console game）中玩家通常可以在同一个控制台上一起进行合作游戏，而后来慢慢可以允许两名玩家通过一个控制台和网络另一端的其他玩家一起合作。即使在单人游戏中合作的玩法依然有可能通过玩家与以前保存的自己来合作实现。<br>在团队竞技体育项目中，合作和对抗是同时存在的。在一个团队里，队员与每一个队友合作，每人负责自己的位置，来让团队在比赛中走得更远。团队由此变得有竞争力，和对阵的团队竞争来得分。第一人称射击游戏提供的就是这样以团队合作为基础的竞争性的游戏体验（参见原理29“志愿者困境”和原理26“公地悲剧”）。<br>对抗型游戏的概念很简单：一个或一组玩家与另一个（或一组）对抗去取得胜利。通常对抗的玩家中只有一个（或一组）能获胜，除非这个游戏能以平局结束。对抗性的竞争是很多多人游戏的核心，而也有很多单人游戏以之前的最高分为对抗对象。<br>一个高尔夫玩家可能在某些特定的球区中与其他玩家进行比赛，但他也总是在挑战自己之前的分数。在这样的比赛中，玩家可能会输给对手，但赢得自己的个人最好成绩。这在保龄球、赛车或者多人参加的第一人称射击游戏（first-person shooter，FPS）如《军团要塞2》（Team Fortress 2）中也同样成立。<br>请记住，个别游戏机制和功能可能会起到鼓励或阻止玩家之间的合作或对抗的作用，有时候会是以意想不到的方式产生作用。例如，许多Facebook游戏中显示玩家的好友列表来鼓励社交互动，但是这些列表是以排行榜的形式来显示的，这就鼓励了玩家之间的竞争，而不是合作。追求在排行榜上达到一定位置这样的游戏目标和其他直接对抗的游戏一样具有竞争性（参见原理25“社会关系”）。</p><p><img src="/images/B-game-design-100-1/image-20200716171419261.png" alt="image-20200716171419261"></p><h3 id="理解-3"><a href="#理解-3" class="headerlink" title="理解"></a>理解</h3><ul><li>合作：玩家们共享一个目标，或单人无法突破的障碍。</li><li>对抗：对抗游戏多指玩家对玩家，可以是单人到队伍到团队，比赛对抗上升到成就排名，甚至公示排行榜，刺激玩家对抗榜单，也可以是玩家自身。</li></ul><h3 id="思考"><a href="#思考" class="headerlink" title="思考"></a>思考</h3><p>通过合作配合提升游戏体验，又或者通过竞争对抗来提升游戏体验。</p><h2 id="原理-5-公平"><a href="#原理-5-公平" class="headerlink" title="原理 5 公平"></a>原理 5 公平</h2><p>根据字典，所谓公平，意味着某事某物是公正的、无偏见的。游戏设计中的公平性也是一样——游戏对于玩家必须是公平的。换句话说，游戏必须不偏不倚，不对玩家作弊。举例来说，如果玩家被告知他通过完成动作Y能得到回报X，那么我们在他完成Y之后却给他回报Z，这对该玩家来说就是不公平的。在这种情况下，游戏与玩家的合约被打破了。当游戏与玩家订立了一个合约，这个合约必须是公平的。<br>公平性在那些投机类的游戏中尤其重要。通过加权生成特别结果的老虎机游戏就是不公平的。随机性以及对它的保证是与玩家的合约中的一部分。违背这个合约即是对玩家不公平。<br>在俄罗斯方块游戏中，与玩家合约的一部分是“下一个方块将会从7种标准方块中随机出现”。玩家经常会将游戏中的随机行为看作是不随机的，他们认为游戏是故意给他们不想要的方块。如果真的是这样的话，这个游戏是不公平的、不诚信的。事实上俄罗斯方块中方块的掉落确实是完全随机的，但是玩家会感觉有背后的行为模式，并把这些归咎于想象中的不公平。<br>类似地，如果一个游戏的难度在逐步提高的过程中突然出现一个大的飞跃，会被玩家认为不公平——事实上这也确实不公平。游戏的难度应该平稳地逐渐上升，这样玩家才不会觉得被欺骗或受到不公正的待遇。<br>如果想在对公平的基本认识上更进一步的话，我们可以看看拉宾（Rabin）的公平模型。这个模型基于3个核心规则。<br>第一，对于那些友好的人们，其他人愿意牺牲他们自己的物质利益。也就是说，如果在一个游戏中玩家们表现友好，那么一个独立的玩家会更容易表现出利他行为或是愿意为友好的玩家们牺牲一些自己的物质利益。<br>第二，基本上可以认为是第一条的反面——玩家将会愿意损失自己的物质利益去惩罚那些不友好的玩家。如果一个玩家有意对其他玩家不友好，另一位玩家为了让他受到惩罚，将宁愿在一定程度上损失自己的物质利益。<br>最后，第三条规则是，第一和第二条规则在物质损失越小的情况下越容易发生。换句话说，玩家需要放弃的物质利益越小，他们越容易参与到前面提到的那些利他或是惩罚行为中去。<br>显然，拉宾的公平规则适用于多人游戏。举例来说，在社交游戏中赠送礼品通常没有什么成本，所以玩家们常会给其他对他们友好的玩家赠送礼品。另一方面，在大型多人在线游戏（massively multiplayer online，MMO）中，如果杀死一个玩家会导致十分严重的物质损失，绝大部分人都会尽量避免去杀死其他人哪怕是最不友好的玩家。<br>当玩家觉得游戏给了他们不公平的对待时，他们有可能会退出游戏。当玩家觉得其他玩家给了他们不公平的对待时，他们有可能会去惩罚其他玩家。在创建一个玩家会对公平性有要求的系统时记得考虑这个问题。</p><p><img src="/images/B-game-design-100-1/image-20200716194942043.png" alt="image-20200716194942043"></p><h3 id="理解-4"><a href="#理解-4" class="headerlink" title="理解"></a>理解</h3><p>捍卫公平正义是人共鸣的一种正面情绪：</p><ul><li>对友好的玩家，玩家多数表现出利他行为，甚至在牺牲自身利益的情况下。</li><li>对不友好的玩家，玩家也会愿意损失自身利益去惩罚这些人。</li><li>利益相关越小，越能在公平架上表现出社交性利他，惩恶行为。</li></ul><p>当玩家感受到游戏规则不公平时，会退游。当被其他玩家不公平对待时，玩家可能就会去惩罚这些玩家。</p><h2 id="原理-6-反馈循环"><a href="#原理-6-反馈循环" class="headerlink" title="原理 6 反馈循环"></a>原理 6 反馈循环</h2><p>在《大富翁》（Monopoly）游戏中，通常是一个玩家变得越来越强大，而其他玩家勉强应付沦为陪衬。占主导地位的玩家不停地购买旅馆，将其他还在苦苦完成他们第一个产业的玩家踢出局。处于下风的玩家基本没有翻身的机会，这一点都不好玩。处于下风的玩家通常只想掀翻游戏棋盘去玩点儿别的。<br>通俗地说，这个叫做“富人越来越富问题”或者恶性循环。在之前这个例子中，当占上风的玩家买旅馆，意味着他们可以从停在他们的产业上的玩家那里得到更多的钱，而这让他们有了更多的钱去买更多的旅馆。因为他们富有，他们不断变得更富有。<br>这在游戏设计中通常被称为反馈循环。反馈循环有两种不同的类型。<br>在一个<strong>正反馈循环</strong>中，达成一个目标能够获得奖励，而这让继续达成目标变得更容易。以下是一些例子：</p><ul><li>在角色扮演类游戏（roleplaying games，RPG）中，杀死骷髅能帮助玩家升级，而这让他们更容易杀死更多骷髅；<br>在国际象棋中，吃掉对手的棋子会让他变弱，这样我们就更容易吃掉对手更多的棋子；</li><li>在《躲避球》（Dodgeball）游戏中，一个有较多玩家被淘汰了的队面临更多威胁要去处理，而有更多玩家的队需要面对的威胁反而较少。</li></ul><p>反馈循环的另一种形式是<strong>负反馈循环</strong>。其中达成一个目标会让下一个目标更难达成。以下是一些例子：</p><ul><li>在《马里奥赛车》（Mario Kart）中，跑到第一名意味着你有可能被蓝龟壳击中，而这会让你失去第一名的位置；<br>在美式足球比赛中，比赛越接近端区意味着防守一方的11名队员保留的展位区域越小，这也意味着进攻一方的传球区域也越来越小；</li><li>在8球制台球中，对手将你的球击落袋中意味着他们下一步的选择变少，而你的球有更多的机会挡住他们的下一杆。</li></ul><p>设计师想要给玩家对他们有意义的奖励，而玩家通常只对能帮助他们取胜的奖励感兴趣——这就是为什么正反馈循环如此流行。问题在于这有可能让游戏失去平衡，因为只有第一个占到上风的玩家才有可能一直胜利下去。尽管玩家希望自己变得更强大，但他们真正想要的是有趣并且富有挑战的游戏。有时候让他们变强大会背离这一目标。<br>负反馈循环有时候看起来也不公平。如果一个游戏被设计成为失败者提供奖励，那么其奖励行为是背离其目标的。在运用负反馈循环时，设计师必须格外小心，不要让玩家对其在游戏中的表现感觉是不相干的。比如，在很多赛车游戏中都有一个橡皮筋回弹的机制来惩罚马虎的驾驶员。<br>解决负反馈循环的难题其实很容易：为玩家完成游戏的目标提供奖励。而要解决正反馈循环的问题相对有点棘手。设计师可能会想完全放弃正反馈，但是要这么做的话必须小心，要保证玩家依然能感觉到达成游戏的目标会得到实在的奖励。我们可以考虑将正反馈和负反馈配合起来，或者是找到一个对玩家的实力不造成真正影响的奖励方式，比如新的皮肤或者动画效果之类装饰性的奖励。</p><p><img src="/images/B-game-design-100-1/timg.jpg" alt="img"></p><h3 id="理解-5"><a href="#理解-5" class="headerlink" title="理解"></a>理解</h3><ul><li>正反馈循环：难度上升</li><li>负反馈循环：难度递减</li></ul><h2 id="原理-7-加德纳的多元智能理论"><a href="#原理-7-加德纳的多元智能理论" class="headerlink" title="原理 7 加德纳的多元智能理论"></a>原理 7 加德纳的多元智能理论</h2><p>1983年，哈佛大学发展心理学教授霍华德·加德纳（HowardGardner）提出了多元智能理论。该理论认为，作为个体，我们每一个人在认知方式上都各有长处和短处。比如，对于有些人来说在学校学数学很容易，对有些人来说却很难。这并不意味着他们不能学好它，而是学校对于数学的传统教学方式可能不适合这些学生。<br>加德纳在他的研究中发现人有8种不同的智能，或者说认知方式，以下分别解释了它们。<br><strong>数理逻辑认知</strong><br>通过批判性思维和逻辑来认知的过程，有时也被含糊地称为左脑学习。<br><strong>空间认知</strong><br>通过想象将物体在空间中的情形视觉化来认知的过程。专业的国际象棋选手们在脑海中想象他们和对手走的每一步棋的画面就是这样的一个过程。<br><strong>语言认知</strong><br>以听觉或书面的方式，通过文字来认知的过程。在这方面能力比较强的人擅长通过听演讲或者读书来学习。<br><strong>身体-运动认知</strong><br>通过身体或者周围的物理世界的移动来认知的过程。这些人如果能站起来，走动走动，或者与他们正在学习的东西有身体上的接触，就能学得更好。<br><strong>音乐认知</strong><br>通过各种和音乐有关的东西，包括音调、旋律、节奏和音色来认知的过程。这种类型的人能从童谣或任何以音乐形式呈现的东西中学习。<br><strong>人际交往认知</strong><br>在与其他人的互动中来认知的过程。这类人可能非常有爱心或者是一位交际花。<br><strong>内省认知</strong><br>自我反省和认知的过程。这类人通常都很安静，一直从自己的内心寻找答案。<br><strong>自然探索认知</strong><br>从周围相关的自然环境中认知的过程。<br>如果设计师在设计游戏时考虑到这些不同的智能，他们可以让游戏适应无限多的玩家。事实上这个理论在早年的游戏设计中有过体现。<br>《星战前夜》（Eve Online）和《龙与地下城》（Dungeons and Dragons）就对擅长数理逻辑认知的人非常有吸引力，因为有许多统计状态需要玩家记住。魔方和类似《音乐方块》（Lumines）这样的游戏则对擅长空间认知的人有吸引力。《龙与地下城》和大多数基于文本的角色扮演类游戏（roleplaying games，RPG）对那些擅长语言认知的人有吸引力。而“红灯绿灯停”（Red Light，Green Light）和任何新兴的动作控制类游戏会吸引身体－运动认知类的玩家。抢椅子游戏和《塞尔达传说·时之笛》（Legend of Zelda：Ocarina of Time）利用音乐来吸引那些擅长这种认知方式的玩家。单人游戏如《纸牌》（Solitaire）和一些角色扮演游戏帮助那些自省认知类玩家更好地认识他们自己。寻宝类的游戏则让那些自然探索认知类的玩家从周围环境中去发挥他们的长处。<br>大多数游戏会利用这8种智能中的两到三个，而又有多少游戏会选择每一种都略有涉及呢？</p><p><img src="/images/B-game-design-100-1/image-20200717170953051.png" alt="image-20200717170953051"></p><h3 id="理解-6"><a href="#理解-6" class="headerlink" title="理解"></a>理解</h3><p>多元智能理论：人的认知思维归类为8种方式，每个人各有长短。</p><p>通过这理论划分出不同玩家对一种游戏的接受度。当然，你可以设计出都符合这8种的游戏~</p><h2 id="原理-8-霍华德的隐匿性游戏设计法则"><a href="#原理-8-霍华德的隐匿性游戏设计法则" class="headerlink" title="原理 8 霍华德的隐匿性游戏设计法则"></a>原理 8 霍华德的隐匿性游戏设计法则</h2><p>霍华德的隐匿性游戏设计法则（Howard’s Law of Occult Game Design，隐匿性游戏设计法则，或称霍华德法则）可以用以下公式来表示：秘密的重要性 ∝ 其表面看来的无辜性 × 完整度（Secret Significance  ∝ Seeming Innocence × Completeness）。翻译成日常用语来说，这个方程式意味着秘密的重要性，是与其表面上看起来无辜的程度及其完整度直接成比例的。<br>隐匿性游戏设计法则解释了为什么很多有情感或是主题目标的独立游戏设计师，往往喜欢采用复古的格调，使用简单的机制和美术风格。事实上，很多成功的独立小游戏都可以这样总结：“这个游戏看起来是一个简单的平台跳跃类（射击类/冒险类/解谜类）游戏，但是接下来……”复古风格营造的怀旧氛围让人联想到在游戏早期的历史上，游戏都是很简单的。在一个采用8位图形和芯片音乐的横向卷轴射击游戏中出现不可见的宇宙战队，其中形而上的哲学思考就更让人意想不到，也就更有力量。<br>通常，一个特定的机制在游戏的叙事和玩法层面包含一个非同寻常的情节转折，来展现游戏出色的叙事设计。例如，《时空幻境》（Braid）是一个《超级马里奥兄弟》（Super Mario Bros.）风格的横向卷轴平台跳跃游戏，但是《时空幻境》的时间反转机制反映了爱与失去的本质。《超级小花》（Eversion）首先看起来是一个平台跳跃类游戏，随着玩家在不同世界之间穿梭的能力，洛夫克拉夫特风格的恐惧逐渐侵入。特里·卡瓦纳（Terry Cavanagh）制作的小游戏《勿回头》（Don’t Look Back，也有译作《勿回望》或《不要往后看》等）看起来也是一个非常简单的平台跳跃类游戏，但是当游戏到了后半段进入地下世界之后，就不许玩家往回看了。这个游戏规则取材于希腊神话中关于英雄俄耳甫斯（Orpheus）的故事，当他下到冥府想救回他的爱妻欧律狄刻（Eurydice）时，冥王告诉他不许回头看，否则爱妻的灵魂将被拉回死亡之地。<br>以上提到的所有游戏都给玩家提供了类似的转折性体验，一个看似普通的游戏背后原来隐藏着具有深意的主题（参见原理58“主题”），就好像从一张魔术图片中突然出现一个秘密的设计。霍华德法则告诉我们这样的游戏刚开始的时候看起来越像是一个单一维度的、独立的体验，这种转折的力量就越大。<br>隐匿性设计和彩蛋（游戏中隐藏的一个秘密设计，比如将设计师的首字母放在其中）的概念也有关联，但主要是跟世界建筑相关的彩蛋。第一个彩蛋出现在雅达利2600的游戏《冒险》（Adventure）中，玩家输入游戏的创作者沃伦·罗比奈特（Warren Robinett）的首字母就能进入一个秘密房间。有的彩蛋让玩家有机会透过重重面纱进入另一个世界，从而在原本游戏的基础上带来一个巨大的空间扩张。例如，任天堂（Nintendo Entertainment System，NES）上最早版本的《塞尔达传说》（Legend of Zelda）中，玩家在完成游戏后输入主人公林克的名字“Link”就能发现在另一个地牢中的第二个任务。<br>霍华德法则在游戏的空间、时间、机制设计和经验累积方面都有影响。在关卡设计中，密密麻麻的、有许多隐藏通道和门洞相连的迷宫是隐藏秘密最有效的方式。游戏《恶魔之魂》（Demon’s Souls）就是贯彻这一关卡设计原理的一个例子，其续作《黑暗之魂》（Dark Souls）中的主世界设计则将这一点体现得更加淋漓尽致。在时间方面，游戏中如果有一些重复发生却又让人不可预料的事件，这些时刻就有着特别强大的力量，如在超自然恐怖游戏《致命预感》（Deadly Premonition）中，黑色恶魔狗于午夜之后在街上狂吠时。隐匿性设计也可以应用于一些隐藏的机制。如在《恶魔之魂》中，一个隐秘的世界里玩家在服务器上的一系列动作可以解锁隐藏事件、区域和人物。当这样的秘密功能逐渐结合到一起，揭示游戏世界中更大的秘密的时候，它们的作用就发挥到了极致。如在《致命预感》中地图最终形成一条狗的形状，呼应那些在深夜的街上吠叫的恶魔狗，这个形象同时也呼应了游戏中乔装反派人物的那条宠物狗。</p><p><img src="/images/B-game-design-100-1/image-20200717175647729.png" alt="image-20200717175647729"></p><h3 id="理解-7"><a href="#理解-7" class="headerlink" title="理解"></a>理解</h3><p>秘密的重要性 ∝ 其表面看来的无辜性 × 完整度</p><p>在游戏叙述里，在流程上让玩家单一性的执行目标，但在故事叙述中，其背后又有什么有趣的存在？</p><h2 id="原理-9-信息"><a href="#原理-9-信息" class="headerlink" title="原理 9 信息"></a>原理 9 信息</h2><p>在一个游戏中的任何一个点上，玩家能接触到的信息数量和性质可以极大地改变其决定。比如，当一个玩家不知道游戏的规则或一般状态时，他们没有办法理性地做出抉择，他们所能做的就是做出大胆的、无知的猜测。所以，在游戏中的不同点展现出来的信息类型和级别，可以极大地影响这个游戏的玩法。<br>为了让人更容易理解，和游戏相关的信息可以采取不同的形式以及分类呈现。<br><strong>游戏的结构</strong><br>所有信息的类别中最首要的一个是游戏的结构，包括游戏的设定和规则。比如在卡牌类游戏中，整套的规则通常会被打印成小册子或者印在包装盒上。而桌上游戏比如跳棋对每一步有效的移动都有严格的规定。<br>游戏环境本身也应该被视为信息。在国际象棋中，棋盘布局和每一个棋子的位置都能通过国际象棋记谱法（algebraic chess notation）被当作纯粹的信息来传达。<br>如果一个游戏中的随机元素被作为参数而不是一个固定值来考虑，它也是一条明确的信息。例如，在《大富翁》（Monopoly）游戏中，玩家不知道他们的下一步到底能走多远，但是他们知道这是由两个骰子来决定的。<br><strong>游戏的状态</strong><br>第二类信息是游戏在任何一个时间点上的状态。广义的说，它可以被概括为“现在是怎么回事？”这类信息包括单位元素所处的位置、分数、资源的情况等。而它的含义比单个元素在地理上被放置在哪里这一点要更广泛一些。例如，在一些桌上游戏中有行动阶段和得分阶段，游戏目前处在哪个阶段这个信息关系到玩家的哪些行动是有效的。<br>游戏理论进一步描述了在游戏中这些信息是如何被利用的。当然，落实到具体的实现上，每个游戏利用这些原则的方式都不一样，但是一般的分类和分级对描述游戏设计师是如何处理这些信息是有帮助的。<br><strong>完全信息</strong>（Perfect Information）<br>“完全信息”是游戏中一种最基本和限制最少的信息传达方式。在“完全信息”的环境下，所有的玩家都知道关于游戏的每一件事——环境，规则，当前位置，所有物品的状态，以及当前的游戏阶段。简单的桌上游戏通常属于这一类。当然国际象棋、跳棋、围棋和大富翁游戏都是这一类游戏的很好的例子。在这类游戏中，没有什么是保密的或隐藏的。<br><strong>不完全信息</strong>（Imperfect Information）<br>与“完全信息游戏”相对的，如果在游戏中一部分信息对某一个或更多的玩家是隐藏的，那么这个游戏是“不完全信息游戏”。这类游戏中的一些例子包括经典桌游《妙探寻凶》（Clue）和《狼人杀》（Werewolf）。在这些游戏中，围绕着寻找那些向一个或多个玩家保密的信息展开的行动正是乐趣所在。在《妙探寻凶》游戏中，秘密信息是谁/在哪里/用什么武器完成的谋杀案。《狼人杀》则是在全村范围内追捕隐藏的秘密狼人。这些游戏和更多这类游戏利用对信息的掌握和探索作为他们的“核心游戏循环”（参见原理33“核心游戏循环”）。<br>不完全信息游戏还可以继续被细分和归类，这在本书的“信息透明”（参见原理27“信息透明”）一节中有更详细的阐述，因为所有这类的游戏都是围绕着和秘密相关的暗示展开的。另一个与这个主题有关的原则是“霍华德的隐匿性游戏设计法则”（参见原理8“霍华德的隐匿性游戏设计法则”）。</p><p><img src="/images/B-game-design-100-1/image-20200717183838892.png" alt="image-20200717183838892"></p><h3 id="理解-8"><a href="#理解-8" class="headerlink" title="理解"></a>理解</h3><p>在游戏中信息的展示引导玩家决定性行为，最终使其玩法体验产生影响。</p><h2 id="原理-10-科斯特的游戏理论"><a href="#原理-10-科斯特的游戏理论" class="headerlink" title="原理 10 科斯特的游戏理论"></a>原理 10 科斯特的游戏理论</h2><p>《游戏设计快乐之道[1] 》（A Theory of Fun for Game Design）是拉夫·科斯特（Raph Koster）出版于2004年的一本著作。这是所有设计师都应该熟悉的一本基础性著作。科斯特正面解决了如何使一个游戏让人入迷、引人入胜，并且令人快乐的问题。他同时也说明了当一个游戏没有魅力、不好玩的时候，它将如何失败。<br>这本书的前提是，所有游戏其实是低风险的学习工具，要让每一个游戏在某种程度上都是寓教于乐的。正如动物在玩耍中学习发挥支配地位的行为、如何狩猎等生存技巧一样，人类也在游戏中学习。好玩的学习体验让我们的大脑释放内啡肽，从而强化学习效果，并给玩家带来愉悦感。正是这种内啡肽循环让我们一再回去体验游戏。一旦这个游戏不再教给我们任何东西了，我们通常会逐渐感到无聊并且放弃玩它。<br>为了说明这一点，我们来看一个简单的游戏：三连棋（Tic-TacToe）。这个游戏的核心机制非常简单。对于青少年来说，这是一个有趣的游戏，因为他们在学习掌握如何放置他们的棋子。对于一个玩了很多年这个游戏的成年人来说，这个游戏就没那么有意思了，因为他们对这个游戏已经足够熟练，这个游戏也就不再触发内啡肽的释放了。一个成年人（甚至是一个孩子）在有了足够的实践练习之后就会知道要想快速取胜，最初的几步该怎么走，或者至少要做什么来得到一个平局。一旦没有了学习，游戏就不再好玩了。现在，大人可以享受教会他的孩子玩这个游戏并从教学的过程中体会到乐趣，因为他们把自己学习和娱乐的经验传授给了孩子，这让作为家长和导师的他们从中感到骄傲和一种成就感。不管怎样，我们说，这种“快乐”来源于“超游戏思维”（参见原理47“超游戏思维”）。<br>科斯特的理论还不止于此。他还提到如何在游戏设计中用到“组块化”的概念。“组块化”是一个将复杂的任务分解成我们能够下意识地完成事情的过程（参见原理99“工作记忆”）。例如，在学开车的时候，新司机面临着很多需要同时进行的任务：看仪表板、后视镜、侧视镜，关注路上其他的车辆，看交通灯等。然而，当他学会了开车，他已经能够把这些信息分块成一个一个的单位，从而能够顺利地几乎不假思索地处理它。显然，经验丰富的司机在驾驶时必须集中精力，但他们并不需要特意在如何安全地检视他们的后视镜这个过程上花费时间。<br>科斯特在他的这本著作中融合了生物学、心理学、人类学和游戏理论的知识。他认为，在我们的体验中，我们在一个不断变化的过程中参与并接受挑战就是“快乐”，特别是在学习中。他断言，我们成功完成一个挑战——也就是在一个游戏中学会如何达成游戏目标——就是“快乐”的来源。他还指出，游戏设计的目标就是重组大脑的思维范式，而这是一个非常严肃的责任。他对此非常严肃并且提醒新入行的游戏设计师们在设计游戏时记住他们所承载的力量和责任。<br>十年后，进一步的研究已经证实了科斯特的观点。在这本书的第二版中，他把这些新的发现和相关研究也更新了进去，其中包括“拉扎罗的4种关键趣味元素”（参见原理11“拉扎罗的4种关键趣味元素”）以及在心理学和教育学研究中证实他的理论的一些发展。</p><p><img src="/images/B-game-design-100-1/image-20200717224011279.png" alt="image-20200717224011279"></p><h3 id="理解-9"><a href="#理解-9" class="headerlink" title="理解"></a>理解</h3><p>游戏体验是趣化学习的一个探索过程，激发好奇心本能的哲学（苏菲的世界）。一旦没有了这种感觉，就不再好玩了。啊，原理游戏也是那么的哲学。</p><p>组块化分解，将复杂分解成下意识地完成事情的过程。在游戏中，可以常常反推一个副本，一个复杂的副本，当你肌肉记忆技巧后，再难的副本都比吃饭还容易。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;center&gt;New Riders游戏设计与开发&lt;/center&gt;
+&lt;center&gt;游戏设计的100个理由［美］Wendy Despsin　著 肖心怡　译&lt;/center&gt;
+
+&lt;hr&gt;
+&lt;center&gt;此篇记录《游戏设计的100个原理》的归纳笔记，有原文对照性，便于独立思考和解
+      
+    
+    </summary>
+    
+    
+      <category term="游戏策划" scheme="https://blog.yamfeel.cn/categories/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92/"/>
+    
+      <category term="游戏设计的100个原理 - 解读" scheme="https://blog.yamfeel.cn/categories/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E7%9A%84100%E4%B8%AA%E5%8E%9F%E7%90%86-%E8%A7%A3%E8%AF%BB/"/>
+    
+    
+      <category term="游戏策划" scheme="https://blog.yamfeel.cn/tags/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92/"/>
+    
+      <category term="游戏设计的100个原理" scheme="https://blog.yamfeel.cn/tags/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E7%9A%84100%E4%B8%AA%E5%8E%9F%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Job War</title>
+    <link href="https://blog.yamfeel.cn/2020/07/15/me/job-war-1/"/>
+    <id>https://blog.yamfeel.cn/2020/07/15/me/job-war-1/</id>
+    <published>2020-07-15T08:20:36.000Z</published>
+    <updated>2020-07-16T08:10:26.137Z</updated>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look."><div class="hbe-input-container"><input type="password" id="hbePass" placeholder="Hey, password is required here." /><label>Hey, password is required here.</label><div class="bottom-line"></div></div><script id="hbeData" type="hbeData" data-hmacdigest="c65d31fb2bbc4e9c75e9d9be0ced2c7d7ef05780137410b9c6c59666ce2b01de">4922e2deedb47ba1308d63e284da3b8280490197c40cfb75e1989ff2271b3065f11d141a08a2cd5c67e64ec2c763319f9f3bacc33e6ef0ee9825db85477eb99ed947a31388bfc399f2a84e378174e532e338e32287bb8d4f88501f1e687b4df608ca3b7b91d118d071d9e23acd3936791728553c2cd2d1d145cd25f2d0131f75ffe7940226135757b57cbf20f19f764af1ee61c87095c6f77190ad9bc63930ea00824700d2996596230f2971bd96dab01e593b827165ff88a8281befc91d6ee8e8ef258c7324ecc064822d6d960afc734368dc6369736a19ae9bccf9de05013661977abee3caa63c1f1702e65a535b5f102c4514f916d2b6e2c3f42149b9ee3a777661bd9a988afd4b7ae4f1d514e364e097909f29ea065fb8ef846e9fef871800895762d0f1e36c15070ddde892caf115c0f2344fe82d388edbe696957c96fe8e890350fa26466117c371cef7a23fd456696ab57c91c81bbae4ea6beb3e935c6a8dfba014e9b4031520513fa89be8f30898ae4552dbc4365351c6cbabdfaef7a07f3da302829e7e649b56ffd0533895c3231d048807fa7a4d63a649db49dacc7865b6818f94e501d569ff55ba618513df0349e61786fe2e5abb326c5d9f51b2029e3f806f38154b302923dde2279ef2a7893737f8a9d89cfb1fb03ef0d176ccb0db7d37b9252775e0051361798273976205759834b55ee1f0c07b0f0c489903ba2fc37e1fc027e91db577587a503800974cee3caa237c8897f0c37c95afde6a27d149856bdb60d077323a5f7aee2dd04b495b8be851b2cf8ca4dc7b0ff465b3a79a971a0029d8c9c3bfdce105932496b67a7a5c018f77fa60cb5a9548a95a16d9bc3a0e588f895e0a79ac8987b399831ec006b4975d80d0fe231b15292645b37b197626304322c7621758aa0455e56b2d9438e72525661ab3f05f7ba12486a2e8b439f2393f3e6ff2654e4d19fa54bfc1f2bcae3282eba8b5aec807f8071981c21b5d12e485a29ffbfa548c849472856de28154fe54be5a1c7ceab8438a0bd26b0509d028f3ce24630d0e2714b5513aae772d5856a0cf8e00880a886a6efcce19f89658855b86406078d8c99a0251bceadd4e0be3b1d2e557372ab542606a7342ed41c3715ebd1eaa896af23a2675e593a5215dd05159bf35e0a7c1941e3289c9950feea96f20b56d172dccce4f78362265812881fdd14c2d8cb50d525f902ae36881adfd8fe8e72b8e704490c952df88e3b217e62dad97ee952262d4b686ea107aa19b8310a1518cd71d0b64a464a97960b8fc479a5f61a4550cd64bd49f8803b57edced1974679d84037db120da4113ac38b45c0877e80db523af4a2e56c8c80771c08d0275b5d1b0fa3744e4fa81d910b41ba8ea52619abc6bb5215b5fcb5ab3de88146ef72924272993a7f2b301ff10d3d1a0c07b89aa5387d051c1b1aaf2c731d306e9628435f70693820572e37974ce612d61c6503a153a97cc9b47d1ace95e4ccac7416c57b7c5b5a8115e44a924f71b84013be285b9148ae95a23f1bc5505c4682b6fa71e8b9343a095444218ef0d31d747b77d5a0235ab1233e9edc416b727d8ac27c6b79bafbf8a1cca708ba77202bef02651417d045b3cf4ab64040ccee6ba257eb7f2bee2be09f4de332084877e295760b87134b627d4988038711a07a32eb1674b73f1fa44331b73092b459f4cba11c90eec4cc4485641f02aa6db9e39c85e4a92d45549c9083630adf5bdd2eb40394ed16c0500016f983fc446e70e95700c25ca42c9c4c36b085e4c9e65c5b1d60280973bea9b3ec975125bc9b8546d9608c03d26f15462a7d133d617788909c1b6b202f2a02f4aa8a19b18002aee8727614c49389dfbdfd0d7224dfaf87c9a9d767df14f6927b054f657225d79d92ae95c6d9f57bf626cd416442e5c940498d2f707f557e626b568a26e44ff0144a27a702df30d10c0d962e7c0a39ccf00389f7d215d96e63508957c98d8</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      Here&#39;s something encrypted.
+    
+    </summary>
+    
+    
+    
+      <category term="方法论" scheme="https://blog.yamfeel.cn/tags/%E6%96%B9%E6%B3%95%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>new Age</title>
+    <link href="https://blog.yamfeel.cn/2020/07/15/me/new-word/"/>
+    <id>https://blog.yamfeel.cn/2020/07/15/me/new-word/</id>
+    <published>2020-07-15T08:20:36.000Z</published>
+    <updated>2020-07-29T21:10:00.422Z</updated>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look."><div class="hbe-input-container"><input type="password" id="hbePass" placeholder="Hey, password is required here." /><label>Hey, password is required here.</label><div class="bottom-line"></div></div><script id="hbeData" type="hbeData" data-hmacdigest="a8170b3ab04296d47bfdedae75a9e9dfdc889f1271d5b59329d0152538fd34de">40e1d7cf75e4840218f3b34eedfcc58a522eed1e84f32a882700d9f27f2d3115199897e30b0ed042571b5206441137d16e4dcde3c12f8bd2baa7bf4e86c7e2e5a83d545dde5e3e257817d8c942eaac256d25e6274042b91950edfb312f78face13d9195ef010f9d347854a8c3382749345765545d510f1d235c6fed494f4e209717dcf856389f25ebfc09afa98c7785c40abb374914b81f0347c0fd85a0a54ce5ef5382eeb116fd0b4766f78090674343d23aa86dee120d8aeed723c815c152d6060c6959a574b65d820961991b231d1a19a773962e5fe5133f4d977480d446718f81694624ca926eb1fd4790fcd3a4378d78f5f627e28ca20cbdd3e3badc9bec8fb8dca21216e9471d780183583d2bbe81759df4ecf8b374c404d54716f501becf504515611c65b1da0752b50c2dc351daf0581ba6fa6c728d2361b4e7c318709645911ec638349193428f91a6eb702531f8f4fd12f7814fbb81acbdceae2685bff3585259d0ec3403b2a680477425fea66b500daa864ead883fcb9b0a583469b764649bdd734328939fa6923a4404ae5d9e253ce93f34bcfcf4404b62150dc01ae7e9c80fa15dc438a951cca85e50f2478116dee8a14e26642507402da277a756180553a2cf825b45428b8b06cda1117072eaf4f1c4e245e588b295c0b2082df33f8c2de9db613dc6f8120f1389fd9892ca79de1027a2376d4895e1f4dc0d334dbf8eb16a34e1140466080c00b3f64ee8857a714df8314de6b0848e9d366fb</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      Here&#39;s something encrypted.
+    
+    </summary>
+    
+    
+    
+      <category term="方法论" scheme="https://blog.yamfeel.cn/tags/%E6%96%B9%E6%B3%95%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Teardown Analysis</title>
+    <link href="https://blog.yamfeel.cn/2020/07/10/game/teardwon-1/"/>
+    <id>https://blog.yamfeel.cn/2020/07/10/game/teardwon-1/</id>
+    <published>2020-07-09T19:05:36.000Z</published>
+    <updated>2020-07-30T12:44:25.952Z</updated>
+    
+    <content type="html"><![CDATA[<p>Teardown Analysis <code>拆解分析</code>，该方法源自B站UP <strong>鱼一元001</strong> <code>UID:618369</code> ，非常感谢~</p><p>那么如何去拆解分析一款游戏呢？</p><ul><li><p><strong>举原作者中的 case 阴阳师 为例</strong>|原链接： <a href="https://www.bilibili.com/video/BV1GJ411y7fj" target="_blank" rel="noopener">挺进游戏公司01</a><br><em>原视频中没有讲如何去着手分析，作为一个学习者，要学会分析别人的思考过程。</em><br><img src="/images/teardwon-1/image-20200714155230876.png" alt="image-20200714155230876"></p><center>图1</center><p><img src="/images/teardwon-1/image-20200714155553449.png" alt="image-20200714155553449"></p><center>图2</center><p><img src="/images/teardwon-1/image-20200714161013960.png" alt="image-20200714161013960"></p><center>图3</center><p><img src="/images/teardwon-1/image-20200714161233561.png" alt="image-20200714161233561"></p><center>图4</center><p><img src="/images/teardwon-1/image-20200714161426048.png" alt="image-20200714161426048"></p><center>图5</center><p><img src="/images/teardwon-1/image-20200714161605301.png" alt="image-20200714161605301"></p><center>图6</center><p><img src="/images/teardwon-1/image-20200715110109733.png" alt="image-20200715110109733"></p><center>图7</center><ul><li>首先分析下游戏中有几个系统组成，每个系统的层级关系是怎样子的。<br>如阴阳师最大的三个系统：橙色的战斗系统、绿色的式神系统、蓝色角色系统。<br>每个系统里又包括许多的子系统，如上图所示中三大系统里面就包含很多子系统。</li><li>找出核心系统和核心资源的循环，做如上图 core loop 模型</li><li>画出各个系统之间的资源流向导图。</li><li>继续拆解子系统，如图2上半部分是式神的召唤，下半部分是子系统之间的关系<br>每个子系统还可以再拆的详细点，如副本条件及时间、资源等</li><li>Aim Map：标记出最重要的系统几个系统的目的（收入/活跃/社交留存等）</li><li>Target Map：标记出不同类型玩家，分别对哪些系统感兴趣</li><li>游戏在发行方面做了哪些工作，或者还可以再细分下工作具体内容</li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Teardown Analysis &lt;code&gt;拆解分析&lt;/code&gt;，该方法源自B站UP &lt;strong&gt;鱼一元001&lt;/strong&gt; &lt;code&gt;UID:618369&lt;/code&gt; ，非常感谢~&lt;/p&gt;
+&lt;p&gt;那么如何去拆解分析一款游戏呢？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="关于学习" scheme="https://blog.yamfeel.cn/categories/%E5%85%B3%E4%BA%8E%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="如何学习之游戏策划" scheme="https://blog.yamfeel.cn/categories/%E5%85%B3%E4%BA%8E%E5%AD%A6%E4%B9%A0/%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92/"/>
+    
+    
+      <category term="游戏策划" scheme="https://blog.yamfeel.cn/tags/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92/"/>
+    
+      <category term="拆解分析" scheme="https://blog.yamfeel.cn/tags/%E6%8B%86%E8%A7%A3%E5%88%86%E6%9E%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学习的始终</title>
+    <link href="https://blog.yamfeel.cn/2020/07/09/Learn/learn-1/"/>
+    <id>https://blog.yamfeel.cn/2020/07/09/Learn/learn-1/</id>
+    <published>2020-07-08T23:18:45.000Z</published>
+    <updated>2020-07-21T16:22:09.931Z</updated>
+    
+    <content type="html"><![CDATA[<p>如何才是学习（学习没有终点）？</p><ol><li>首先要有学习目标</li><li>对目标事物的了解</li><li>收集信息分辩信息</li><li>不断建立学习框架</li></ol><p>理解学习的过程？</p><ul><li>知识是打包的，我们要进行解包，再输送到大脑，最后进行打包总结。<br>书本上的知识，都是作者自己对自己的积累进行总结输出，往往是有些知识，作者对该知识进行抽象打包后，本应该给读者进行解包解读。但是发现解开后并不能理解，里面还有好多个小包。这时候，读者和作者之间的知识桥不是直通的，就要再次思考这条大道到底如何去打通，怎么才能不走弯路，学习必定是个循环思索的过程。就算是世界上顶级的大师，都不能把一条知识大道无障碍敞开。永远要认识自己脚下的位置，到目标要如何走。</li><li>观察事物现象，对知识打包</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;如何才是学习（学习没有终点）？&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;首先要有学习目标&lt;/li&gt;
+&lt;li&gt;对目标事物的了解&lt;/li&gt;
+&lt;li&gt;收集信息分辩信息&lt;/li&gt;
+&lt;li&gt;不断建立学习框架&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;理解学习的过程？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;知识是打包的，我们
+      
+    
+    </summary>
+    
+    
+      <category term="关于学习" scheme="https://blog.yamfeel.cn/categories/%E5%85%B3%E4%BA%8E%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="探索" scheme="https://blog.yamfeel.cn/categories/%E5%85%B3%E4%BA%8E%E5%AD%A6%E4%B9%A0/%E6%8E%A2%E7%B4%A2/"/>
+    
+    
+      <category term="方法论" scheme="https://blog.yamfeel.cn/tags/%E6%96%B9%E6%B3%95%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>封存的过去</title>
+    <link href="https://blog.yamfeel.cn/2020/07/06/me/essay-1/"/>
+    <id>https://blog.yamfeel.cn/2020/07/06/me/essay-1/</id>
+    <published>2020-07-05T21:00:50.000Z</published>
+    <updated>2020-08-01T09:32:01.263Z</updated>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look."><div class="hbe-input-container"><input type="password" id="hbePass" placeholder="Hey, password is required here." /><label>Hey, password is required here.</label><div class="bottom-line"></div></div><script id="hbeData" type="hbeData" data-hmacdigest="356117362b9e0260b1a4ff9a1d2b3f7570b0fc912eb1ba5c23e22aa4e1d266a4">3c3504fe6fb2f39dc2f08dee13107044e3b3565906c603cb8b1c9bde984146a4114fc5930ec9b0004147c97002ef27dc701deb45e34e35c65934efbcd9d934bc9b77bf9a00ffbe0c1a63075f7d5118204f4b952c0267656270b76d534c252cdf36dadfa23adeef2ec7bb3c6fd77562d0092a4c7158fcd8cc9e995fa5881c73222c5ee760be85aa1759a1a4297c34703a3d54738a6f6b2f8a99aeb9cebcf99800c9b93e9ed0cb1fe89e49143014661ca36b283d3e2a88795861464fe44f0dc64a8c3b7e2cad96d2e83651f54a7c15191f7ef38b9bb2ebf47b04efe575d7762ea86ef0c958bc4b0a1bc16ae9ebc29fc36dc741e5039730d22536f774e37c4f61ff2e4dac124cb952dc30bf2784aefe8896e61b43e1345004ffb74b1608616823541a7b016da8e4ff14c4464ffbfc3e1c64889f44317754fa37057678203950c421a76c88409f55ede2e7906d8d59b2f4d07fe7492ac15ed7e9ad245c7343b8e4ab790bbee42365353a20305965a580bc7effe5d0d974cd51547813ba0b4683fa41c90fa20cddacc55c96bbbaab5e9e1db67faf29c8599b265abb57d96f7a55776d0e6b7ca7372eadeda74b1334466bad60d75e19c29e159d0382a6e8441daea664cadab3322a8367217c0db1ce9ec1e64cf8d95dc0035b72c00d8ed0fff9cf8a3e9e114eddda4272c1dde19db9584def0ef555b58480295e2a89b0ab5b2d2b3840014301e51aef27a681d5156c1973b91a618146d2545c6fd83b6cdebd9dab4e3ff7b2f18de9cd797d91ff2a9f0e8b288c32aeb85eec6f798ad068287cea7016da369b284da72fe279b36f7ecb0b9db0d4a2a4a79159ec97e7ecb91678abfc9b2226c59aaacd6c3c9fa63abeb3084099471af5ffbcfaad8132fd8a29f0f0b7939f54164060004bc3ac0bd1f288d6f09cfa156ba50a4d8e6cf480825b1fe3f2b77b10b0c76a5c160fe4de2b00b5cc16cb4fa104f0fd3e65603898ee3a7a6d9d270dfdfd24be38fad053ec6a70955359d526090c53a598645285cc193b18732a55345c1305dff43ce60346bb40d899db6c3084eea514de9ebf8e5af5ddaf954d15a9a9d8d51b54c29f74dfd6128391b6e521385c5be3843d32aa37c534443745f90391fe9aa2dc865e9a84d040fe9f46ca5c6e789bec2f31024deb7e462734e00c6952c6508347179787141b3cde8ce3ef6fe89f191e2c946b89e9a393b6af25231bb25961a5fc1e0f254aa51c97c0d94a0b4dae2f6ef8e26da1181ec84bc6a23abf7b130e3d3f38e1db38022428ccfa64b5b9981492d5aeda883fbaccf94a0f0b5c6e421c6539678d5ee5256f1963372fa645c6e79e5ea55c1638b62cc84076524ad43b8c2e170cb344ea97e4e5d1b81e8e69fb37e55e0096a88ed99a5f7403c6ddc677e4b0f46e66ac1019a56d4d7496abe39145619836a26c4c19a50fd189e06c040d0d94e23b7a5d606bb6b71a8f7d8d0c246b591a18630eab9afdcf5ee94606babd9dcb48855ff783bcbbfb78069c506843631a28a0b8bf08641d38faf78e1e2735c58d6d3b6f2e1b76168957e0b7f1d7c44a038ac8a0e6f88e3e5e0b9886b5b1b5ae89a89e85c0cd93605be5e164ed312273bd93bdd49c1f25f6762de7f030d720349ddffeb047488d26639eead03c794e96ca0f953edd6677501d0f9a1138bbc15b998811691e1f2bf9e1e41d6db6aa96b86dd68a8fc595564d83cb652419a8adc8e7c6ed6b0cc65c1e4f5d2397deb96e5c347402b0c9b9ba18f68667fd98147cad8caf80dfe34c8a9cd0f58581c1a11f4032ad493d5c6c64d90041cbeebba777ba25661e1766f3ccbc01f42aaf2581d5117d5d81d59233e6c56cfa16331af97193cab80b366ab680e8f615101084393ff465bb6819dad8873ce967f432e38e9356b58591e868c0f8535bbc16efc5f9e34b4bc66f5612c727bf1e552e59d9ccc562c63b24ef177ee56d8245717ffa1af4b069d61ce8ab911dcf39033be95295fe63c3994550c859fb9989906589b58c7998726e480a49daf659448e248a0abb8c4d7030389fa89935572be762bddd272a429ce28b5787c4faf95800470a13c20e920593dc871f21e15f77fcaef968e48e9023a21667a7ade22802768d4f1483bea82d2b76586314829ed3e9a423856212815f85321c1e8371ca617cfed7242eb150354d537d506bd8a7641ce2bf423e50c6a06f2327acbf9a2b577d46da5fe57ef1fc103a210e46b562c2d2451670306adfbdb7edffd6e3793377656837798c9246c120016b56c8e0ed897eaa00e67318506eda77592c0525230904e6398e1cb1cfda3bf13d37d8272b5caeb37c32048b29ae63ba2f5f810106a11f17c3508dee7d798e50811659d520b242e07a591170490cf668f267b01c3b480b8beb0b06ba450ed941ac9adc724e54d229142d13dae365dbb99e05d6315809fefbdaf73ba89aae998e0b6dc7af223964c00f1e1a2c61b244cbda0913ccbe21ae4510615c7d7b9d5449c30edc9a10f7a8ddaf2a5a7b13fc2b2cf54424a0e9a00aacf6ad8e1018c532dc012dce99ffcc8d4d7af08bb3e02ed3fd2b5418b775bb3703eee4e4db2a24e85cd2d198c710dc38ccb2a8f28732b7611843d4f567f33204ea767d66f9ce626d878227e713117a5595125ee2b0d7ea1dc278d23db7cca00fdaa658ad5af34d1af31b3263e9b58611600f1abfb01ef7a89583e48857b4b0491e7a814bcc90b3116ca6c0340c3acd95010b27de5c06d8d42a3e599af46839792510b6e5e5257d7e2d88b0eebdbe4326ed578a6a35dcedfa4d061d5d67d09e453b2cdd10f03313620a79f5f315ec03fa4e7eb2093f513d51a4fa674a9567d264d6fbc0d7054ff45c9a6c96f49140a9c74d4ccaa0b3ae01af414f31b42d6f5d018897ca02926c1a9cb3a180bb82a7de7469165ceedc1868a93fc09004832e1d451037d46486a5c471a689d3063807a2e0d7c355249f5ffe066073c17b57bee7f96fcad342d852a9ea34924a93789014ab92b27c95b943bc939bbc3a34340434cd385afe3f769ae7b9ed54ae10732588bccad4a00bec2a717b2f191c07e7f0f9f08c530663830e8f94cdff8b88d49f3f6c513c35af6de9e443f6f356386bbabce12826877b8c41a381320ecdd721ac66f3c9c84b75b0e9f191c074c4a85befc10009aa1f26160da08693d6bafccb5e33d8d2f8e9da8a49319751afd77c8ac42e6e3004b1291dc2da17f6783f72b524693e9561fea7689674e7b11069e5adb17c4a0044de8d3e2eed04473e3b1af70c81273e9da5d43c6785eae6064353d50772afa35f2f41a1cef5e949469cc7949741cf459e34b85033baec960b0c8a24e6eeeec767185803ea5f200d6eae4ec35990620f720d827486847671862384007eb6ee8843ac44281fb6558a9b18d270e77b3eb3a3b2605e038e3d7934cbea8fe326b71ca40ee44970d573701dafaaa29fca66cd263951a330700afaf53ec00db3319bb5c65009e335c0cc71705ebeefaf6136a9eb0cb1e011d6be155a7b31d163d801421a409af2f1439659ccc61958ceace10527e33d2e0e80a8ba866f4f17865565cca36380aaad92e414dcf704892aa34eecdaa63f6c754b1b458f7613ab58fa10200d584550d9de2509b37de55ebb95f595ed7ccb4b64bd0dd62a2f353188f41f065482b25427bd4eddae9f056a8533c536b3d73e8926158f7dc8075dd177c0fb757c9f6cf451da728169bcd34343cc53985804876b9c9c728392c497f3ab62dbb4c739921dae07252e1796827fd1b3e6c695ef71b770b5185482a16993ae17bdf3dce5de93a18cc251735653011e2fc90324c22dc36e26a4f519748f6102472b4b66b513fe642108579f0663fbc58734156f2aacf0342a7c427f8a9153d9af46d9652e4da3e2a650e08c70cff92b269c74ac14943c0bdff91c3abcb4992ea1587540eebda59739118cf9fcc381bf3744305dc382325452b7156b657e3aaa45b9235c746807291b28d6ca879f89c3feb1baeef20ab0bb963e0018e73aefa6f7494052a478a4c8c360efb517c2661769798865847b72f9c4c5be3b0c5e0444a097028324bfb922035e777f2da65f40d5008c819a384a7e8e31c487440914dc8c0ed61f87c5d7b1b1c56668c1e5589dde0977204a794e466c13d69ec38a5eaac038c04aeaf14f0ac9b5b99b528ccfa8b82c000b0b50cf6a13040325e42cb5b5fbb342f9a7580ea4f08f7cb6176430e77bef994e58c529539758a9df254b6dfbdb1a7857fac7fc648a6bb9d573738a39ef4cf2a620ca6ed21cf487e749d695b442d52b9471813f30605041ab2f8a3a8dc70de295fcb59ac807da6f072cb015c56b0688c767a2e0302aa489c497e0c08db6d05ec6c234a12d4b5ca1fa45400ef4b5cfded60c3bfdcf81fa60a7c6998c8d5991dc8f892a4ce0f215bd21e0523bb473c2478cc58bc3137464fa28c266073c304e50c60911297c5e6c44966d00962500a5f02f66ca2a545538ff9c55959961489f745a20db6ebf875f8f74a567a22aff509da1f8f5de8e0f3adbda365eada013bd19de5ed7fe46fa528098040aac92f6a71380df67743156a5b9b327087a1140117419be1964375e347eceeb85c332f4c82971de3fe69a3206dd6adb9127101e87b6686e2a9962fe5b8378dc20385cd591cec9bc54054488c2e705168476eeda9fdebb496a0ab73e6b7e9270a4eb8f99be9d42a0f51c9c4db5d24e4c2728f147315e219bdb0309fbab4ac0b4b710c2798c0c546aac82afd39c975d790e1c2d85bf996a841b292714d33fc4b92b41bf693ede3722ba0ff3012b5409487f555761485b5117295ec421b852ae5c6e5894c99341bfa5f4f75d987a131d91d325a94dd8c18d67e4afec5157c99b47cbd55bfe8678b2d15a9b4d0593dec77df03fb2d546aeeb4d5b9127599d33856e4f375452afbe5f728c16d0c1a0d29b3e02ebbf68bcf74706131b6ec463619f7563e714eeda1f17a63b0ee8dcdd5413ace85c0df3d786b050706e3072fb31159953022c4f52a3dc026ff6e771573a4971867baacc0ac0ee1f60847657b78b3a8f23750f49abf89b8073506a7872c9315c3d9bec361f858220456715cf7b28493746f6877c936277535dc80a25f3f3cc0672912cef888867e9bf3b36c6b1f73eb43896a52cbd9e2d892916efca7280f76125b404b4677f5541b837429aa79234729981476364c7f178cc980a476a1df5a25aa282ea97821a43442854406eedf3ff8a33132757f18f4c28f94c55a9d1a371df4ddd918bbc3544a8a5550a6837c474580470482006b8d33275bd38ad0074aaf3543ebc41b7245f2076dddf091e2eadac6d297ffc139895c8e1f0bcc952807744ce8962c03c3bb891448db0c30053677f285a06251f93534d5a57431e2424a3a334cd381e197bf3d940ff2f34f50edad42a3c07cbf70b28206ab9f7df74ce2d90388930cb28242350dba33cd3beed85996a7615fdc0becf0b02c7241ead6af90c5ee518bebd01bd00ff7b201858743208b834ff905e0045128d3b35ac38941998a32e8ff2544d9d4df0d3195928fe1ee2d56cb8c5a6fc26c0d181975dba066dc48b2f40f3ddeb90ac834adfa9b62760d496840a19b9f8ff5f56e50f9c2cb53e46f5f80fe5517ce92177ae31f6d768b0744c55041beb252e497a06b9850786f2d16a1dcc192b276d54182ef8200ef8647f73a1cd744edb2991db1917c3f8e7af4cf231aa13b1f05da753a377f5e4a2fea4ee102512515c3ebf6fa71ab2e71c2a1636a3f6dbaf8bd0e8c4222be70b91a6ddd393e587e1cf4e8fedeeabf2cee116d4d060f7c4cdbfdc86bae4348b811297ebfaed55e46e35447d2e11b5624cd7d074c86a0a4c61ae7fddd23b5dc62f8a9d998c1f275954c32d36275f5ecc7c82300722eb225e5dd868dca805eb3e9d7d334306dad52ae43af22e8d858b639cdbb7c1e149b65f4213de441fac7d8c2008240945096b460a9b9cc195c27f242422692768fade5e587db09bc21f4645b2c0a0b8a02075b66d7148101f5c13a05859c1ff17361b3386c056b930f75d30563872103758965685294660e31ad6391cf9b4dd594887448b4a734973f6ecc914b5d3d83268c39bc24136733f63cc95d8015c1b4d3412cbd994d2414696e9e37b34e66515bb9f2a76ca79c1b6c59a35f70896c41f1db6dca597ae946016f0a3e7cc316a29950db6c7958514db64314eceab49801b55d4503e12a9b7ed542bdabbf8edd4ca5c161f46b154d500f80ea4fc473af2012db1bbc7865611630c9f7a1464f203c563eec526f29c5f3519d22c61e22ba2143c6e1b8c5550c0a42f06c3b545bcf6028a40dc45827c</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      Here&#39;s something encrypted.
+    
+    </summary>
+    
+    
+      <category term="生活" scheme="https://blog.yamfeel.cn/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="人生" scheme="https://blog.yamfeel.cn/tags/%E4%BA%BA%E7%94%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>cache</title>
+    <link href="https://blog.yamfeel.cn/2020/06/06/cache-files/"/>
+    <id>https://blog.yamfeel.cn/2020/06/06/cache-files/</id>
+    <published>2020-06-05T21:00:50.000Z</published>
+    <updated>2020-07-26T15:06:36.197Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
